@@ -1,4 +1,4 @@
 # Portfolio Website
 
-[portfolio link/](https://portfolio-sage-iota-47.vercel.app/)
+[Portfolio Link](https://portfolio-sage-iota-47.vercel.app/)
 
