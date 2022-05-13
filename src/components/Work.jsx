@@ -37,12 +37,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://airbnb-clone-project-gcypefnsg-zainbux99-gmailcom.vercel.app/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/zainbux/Airbnb-clone-project'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Code
                   </button>
                 </a>
@@ -61,12 +61,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://bux-expensetrackerapp.herokuapp.com/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white '>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/zainbux/Expense-Tracker-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Code
                   </button>
                 </a>
@@ -84,12 +84,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://elastic-heyrovsky-cb4807.netlify.app/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/zainbux/Todo-List-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Code
                   </button>
                 </a>
@@ -104,16 +104,16 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+              Javascript Application
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://zainbux.github.io/Weather-App/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/zainbux/Weather-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Code
                   </button>
                 </a>
@@ -127,16 +127,16 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+              Javascript Application
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://zainbux.github.io/TinDog-Webpage/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/zainbux/TinDog-Webpage'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:shadow-md hover:bg-pink-600 hover:text-white'>
                     Code
                   </button>
                 </a>

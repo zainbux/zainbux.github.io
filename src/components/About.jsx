@@ -18,7 +18,7 @@ const About = () => {
               <p>Hi. I'm Zain, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that allows users to connect to new and exciting technologies. I have a deep interest in UX/UI and developing beautiful and functional modern websites. I am always looking for what new and cutting edge technology is out there for me to learn, this lead me to begin my journey in the Web 3.0 space where I can express my creativity and build new technoloy with the help of block-chain technology. What would you do if you had
+              <p>I am passionate about building excellent software that allows users to connect to new and exciting technologies. I have a deep interest in UX/UI and developing beautiful and functional modern websites. I love to explore new and cutting edge technology such as in the Web 3.0 space where I can express my creativity. What would you do if you had
               a software expert available at your fingertips?</p>  
             </div>
           </div>
